@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://YOUR-DOMAIN.com/northwood-space-portal-ground-station/sitemap.xml
+Sitemap: https://northwood-space-portal-ground-station.emily-carter-isb.workers.dev/northwood-space-portal-ground-station/sitemap.xml
