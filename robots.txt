@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://YOUR-DOMAIN.com/northwood-space-portal-ground-station/sitemap.xml
